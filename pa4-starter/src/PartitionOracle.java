@@ -67,5 +67,4 @@ public class PartitionOracle {
     public static CounterExample findCounterExample(Partitioner p) {
         return null;
     }
-
 }
