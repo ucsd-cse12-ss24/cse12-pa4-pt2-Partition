@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "pa5-starter\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "pa5-starter\\lib\\hamcrest-core-1.3.jar",
+        "pa5-starter\\lib\\junit-4.12.jar"
+    ]
+}
